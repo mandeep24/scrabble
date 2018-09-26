@@ -62,5 +62,4 @@ def scrabble():
     #all_of_users_totals.write(str(total))
     #all_of_users_totals.close()
     
-ss()
 
