@@ -1,6 +1,6 @@
 import time
 
-def ss():
+def scrabble():
 
     #opening up the text files which contain all English that will be accepted
     with open('english_words.txt') as file:
